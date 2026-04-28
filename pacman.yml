@@ -2,7 +2,7 @@ name: Generate Pac-Man Contribution Graph
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # runs daily at midnight
+    - cron: "0 0 * * *"
   workflow_dispatch:
   push:
     branches: [main]
@@ -17,7 +17,7 @@ jobs:
       - name: Generate pacman-contribution-graph.svg
         uses: abozanona/pacman-contribution-graph@main
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: ${{ Hassan136-nust }}
 
       - name: Push SVG to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
