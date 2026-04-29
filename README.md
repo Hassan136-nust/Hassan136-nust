@@ -312,43 +312,6 @@ const hassan = {
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Hassan136-nust/Hassan136-nust/output/pacman-contribution-graph.svg" />
 </picture>
 
-<details>
-<summary>⚙️ <strong>Click to see the GitHub Action setup</strong></summary>
-
-Create `.github/workflows/pacman.yml` in your profile repo (`Hassan136-nust/Hassan136-nust`):
-
-```yaml
-name: Generate Pac-Man Contribution Graph
-
-on:
-  schedule:
-    - cron: "0 0 * * *"   # runs daily at midnight
-  workflow_dispatch:
-  push:
-    branches: [main]
-
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
-    steps:
-      - name: Generate pacman-contribution-graph.svg
-        uses: abozanona/pacman-contribution-graph@main
-        with:
-          github_user_name: ${{ github.repository_owner }}
-
-      - name: Push SVG to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-</details>
 
 ---
 
