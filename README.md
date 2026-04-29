@@ -172,7 +172,7 @@ const hassan = {
 
 **Stack:** `React` `Node.js` `MongoDB` `Socket.IO` `Groq API` `WebContainers` `Tailwind`
 
-[![Live Demo](https://img.shields.io/badge/▶%20Live%20Demo-58a6ff?style=for-the-badge)](YOUR_FREYA_DEMO_URL)
+[![Live Demo](https://img.shields.io/badge/▶%20Live%20Demo-58a6ff?style=for-the-badge)]([YOUR_FREYA_DEMO_URL](https://freya-agent.vercel.app/))
 [![Source Code](https://img.shields.io/badge/⌥%20Source%20Code-0d1117?style=for-the-badge&logo=github&logoColor=white)](YOUR_FREYA_REPO_URL)
 
 <br clear="right"/>
