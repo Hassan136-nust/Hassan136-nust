@@ -40,7 +40,7 @@
 const hassan = {
   name     : "Hassan Jamal",
   location : "Islamabad, Pakistan 🇵🇰",
-  edu      : "NUST — BS CS · Sem 4 · CGPA 3.32",
+  edu      : "NUST — BS CS · Sem 4",
   email    : "hjamal.bscs24seecs@seecs.edu.pk",
 
   stack    : ["MERN", "REST", "WebSockets", "Docker", "AWS"],
@@ -68,7 +68,7 @@ const hassan = {
 
 <div align="center">
 
-| <img src="https://skillicons.dev/icons?i=js" width="40"/><br/>JavaScript | <img src="https://skillicons.dev/icons?i=ts" width="40"/><br/>TypeScript | <img src="https://skillicons.dev/icons?i=python" width="40"/><br/>Python | <img src="https://skillicons.dev/icons?i=cpp" width="40"/><br/>C++ | <img src="https://skillicons.dev/icons?i=java" width="40"/><br/>Java | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40"/><br/>PL/SQL |
+| <img src="https://skillicons.dev/icons?i=js" width="40"/><br/>JavaScript  | <img src="https://skillicons.dev/icons?i=python" width="40"/><br/>Python | <img src="https://skillicons.dev/icons?i=cpp" width="40"/><br/>C++ | <img src="https://skillicons.dev/icons?i=java" width="40"/><br/>Java | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40"/><br/>PL/SQL |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
 </div>
