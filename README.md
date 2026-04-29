@@ -69,7 +69,7 @@ const hassan = {
 <div align="center">
 
 | <img src="https://skillicons.dev/icons?i=js" width="40"/><br/>JavaScript  | <img src="https://skillicons.dev/icons?i=python" width="40"/><br/>Python | <img src="https://skillicons.dev/icons?i=cpp" width="40"/><br/>C++ | <img src="https://skillicons.dev/icons?i=java" width="40"/><br/>Java | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40"/><br/>PL/SQL |
-|:---:|:---:|:---:|:---:|:---:|:---:|
+|:---:|:---:|:---:|:---:|:---:|
 
 </div>
 
