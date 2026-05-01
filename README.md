@@ -78,17 +78,19 @@ const hassan = {
 
 <div align="center">
 
-| <img src="https://skillicons.dev/icons?i=react" width="40"/><br/>React.js | <img src="https://skillicons.dev/icons?i=nextjs" width="40"/><br/>Next.js | <img src="https://skillicons.dev/icons?i=html" width="40"/><br/>HTML5 | <img src="https://skillicons.dev/icons?i=css" width="40"/><br/>CSS3 | <img src="https://skillicons.dev/icons?i=tailwind" width="40"/><br/>Tailwind | <img src="https://skillicons.dev/icons?i=bootstrap" width="40"/><br/>Bootstrap |
-|:---:|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=react" width="40"/><br/>React.js | <img src="https://skillicons.dev/icons?i=html" width="40"/><br/>HTML5 | <img src="https://skillicons.dev/icons?i=css" width="40"/><br/>CSS3 | <img src="https://skillicons.dev/icons?i=tailwind" width="40"/><br/>Tailwind | <img src="https://skillicons.dev/icons?i=bootstrap" width="40"/><br/>Bootstrap |
+|:---:|:---:|:---:|:---:|:---:|
 
 </div>
 
 <!-- ─────────────────── BACKEND ─────────────────── -->
+
+
 ### ⚙️ Backend & Databases
 
 <div align="center">
 
-| <img src="https://skillicons.dev/icons?i=nodejs" width="40"/><br/>Node.js | <img src="https://skillicons.dev/icons?i=express" width="40"/><br/>Express.js | <img src="https://skillicons.dev/icons?i=mongodb" width="40"/><br/>MongoDB | <img src="https://skillicons.dev/icons?i=postgres" width="40"/><br/>PostgreSQL | <img src="https://skillicons.dev/icons?i=redis" width="40"/><br/>Redis |
+| <img src="https://skillicons.dev/icons?i=nodejs" width="40"/><br/>Node.js | <img src="https://skillicons.dev/icons?i=express" width="40"/><br/>Express.js | <img src="https://skillicons.dev/icons?i=mongodb" width="40"/><br/>MongoDB | <img src="https://skillicons.dev/icons?i=mysql" width="40"/><br/>MySQL | <img src="https://skillicons.dev/icons?i=redis" width="40"/><br/>Redis |
 |:---:|:---:|:---:|:---:|:---:|
 
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="40"/><br/>Socket.IO | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40"/><br/>Nginx | <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" height="28"/><br/>JWT | <img src="https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white" height="28"/><br/>REST API | <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socket.io&logoColor=white" height="28"/><br/>WebSockets |
@@ -111,8 +113,8 @@ const hassan = {
 
 <div align="center">
 
-| <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white" height="28"/><br/>Groq LLM | <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white" height="28"/><br/>Gemini AI | <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" height="28"/><br/>OpenAI | <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=github&logoColor=white" height="28"/><br/>Copilot | <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" height="28"/><br/>Cursor | <img src="https://img.shields.io/badge/Kiro-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" height="28"/><br/>Kiro |
-|:---:|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white" height="28"/><br/>Groq LLM | <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white" height="28"/><br/>Gemini AI | <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" height="28"/><br/>OpenAI | <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=github&logoColor=white" height="28"/><br/>Copilot | <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" height="28"/><br/>Cursor | <img src="https://img.shields.io/badge/Kiro-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" height="28"/><br/>Kiro | <img src="https://www.antigravityide.help/logo.png" width="40"/><br/>Antigravity |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 
 </div>
 
