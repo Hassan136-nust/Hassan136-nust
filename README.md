@@ -163,8 +163,6 @@ const hassan = {
 
 > Gen-AI · MERN · WebContainers · Real-Time
 
-<img align="right" width="280" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
-
 - 🤖 AI code generation via **Groq LLM**
 - 👥 Real-time multi-user editing with **Socket.IO**
 - 🌐 Browser-based Node.js runtime via **WebContainer API**
@@ -176,15 +174,11 @@ const hassan = {
 [![Live Demo](https://img.shields.io/badge/▶%20Live%20Demo-58a6ff?style=for-the-badge)](https://freya-agent.vercel.app/)
 [![Source Code](https://img.shields.io/badge/⌥%20Source%20Code-0d1117?style=for-the-badge&logo=github&logoColor=white)](YOUR_FREYA_REPO_URL)
 
-<br clear="right"/>
-
 ---
 
 ### 🗺️ UrbanPulse — GeoSpatial Urban Intelligence
 
 > MERN · OpenStreetMap · Spatial Analysis
-
-<img align="right" width="280" src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" />
 
 - 🗺️ Geospatial queries via **OpenStreetMap + Overpass API**
 - 📊 Infrastructure scoring & urban analytics
@@ -196,15 +190,11 @@ const hassan = {
 [![Live Demo](https://img.shields.io/badge/▶%20Live%20Demo-58a6ff?style=for-the-badge)](https://urban-pulse-system.vercel.app/)
 [![Source Code](https://img.shields.io/badge/⌥%20Source%20Code-0d1117?style=for-the-badge&logo=github&logoColor=white)](YOUR_URBANPULSE_REPO_URL)
 
-<br clear="right"/>
-
 ---
 
 ### 🎓 Gapify AI — Resume & Interview Analyzer
 
 > Gen-AI · MERN · Career Intelligence
-
-<img align="right" width="280" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
 
 - 📄 AI resume analysis with **match scoring**
 - 🎯 Skill gap identification vs job descriptions
@@ -217,15 +207,11 @@ const hassan = {
 [![Live Demo](https://img.shields.io/badge/▶%20Live%20Demo-58a6ff?style=for-the-badge)](YOUR_GAPIFY_DEMO_URL)
 [![Source Code](https://img.shields.io/badge/⌥%20Source%20Code-0d1117?style=for-the-badge&logo=github&logoColor=white)](YOUR_GAPIFY_REPO_URL)
 
-<br clear="right"/>
-
 ---
 
 ### 💻 Real-Time Collaborative Code Editor
 
 > Docker · AWS ECR/ECS/ALB · CRDTs
-
-<img align="right" width="280" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
 
 - 👥 Multi-user editing with **CRDT** conflict resolution
 - 🖱️ Live cursor sync across all users
@@ -237,15 +223,11 @@ const hassan = {
 [![Live Demo](https://img.shields.io/badge/▶%20Live%20Demo-58a6ff?style=for-the-badge)](YOUR_CODEEDITOR_DEMO_URL)
 [![Source Code](https://img.shields.io/badge/⌥%20Source%20Code-0d1117?style=for-the-badge&logo=github&logoColor=white)](YOUR_CODEEDITOR_REPO_URL)
 
-<br clear="right"/>
-
 ---
 
 ### ♟️ Chess Arena — Real-Time Multiplayer
 
 > WebSockets · Docker · Render
-
-<img align="right" width="280" src="https://media.giphy.com/media/l0HlHJGHe3yAMhdQY/giphy.gif" />
 
 - ♟️ Real-time multiplayer chess with live chat
 - 🔄 Instant move sync via **Socket.IO**
@@ -257,15 +239,11 @@ const hassan = {
 [![Live Demo](https://img.shields.io/badge/▶%20Live%20Demo-58a6ff?style=for-the-badge)](YOUR_CHESS_DEMO_URL)
 [![Source Code](https://img.shields.io/badge/⌥%20Source%20Code-0d1117?style=for-the-badge&logo=github&logoColor=white)](YOUR_CHESS_REPO_URL)
 
-<br clear="right"/>
-
 ---
 
 ### 🔐 Encrypted VPN + Auth System
 
 > Network Security · Encryption · Python
-
-<img align="right" width="280" src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" />
 
 - 🔐 End-to-end encrypted client-server communication
 - 🔑 Custom authentication & session management
@@ -276,15 +254,11 @@ const hassan = {
 
 [![Source Code](https://img.shields.io/badge/⌥%20Source%20Code-0d1117?style=for-the-badge&logo=github&logoColor=white)](YOUR_VPN_REPO_URL)
 
-<br clear="right"/>
-
 ---
 
 ### 🧠 Aspect-Based Sentiment Analysis — SemEval-2026
 
 > NLP · Deep Learning · Python
-
-<img align="right" width="280" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" />
 
 - 🧠 Aspect-level sentiment classification with deep learning
 - 📊 Feature engineering & model optimization
@@ -295,10 +269,7 @@ const hassan = {
 
 [![Source Code](https://img.shields.io/badge/⌥%20Source%20Code-0d1117?style=for-the-badge&logo=github&logoColor=white)](YOUR_NLP_REPO_URL)
 
-<br clear="right"/>
-
 ---
-
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                    PACMAN CONTRIBUTION                        -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
