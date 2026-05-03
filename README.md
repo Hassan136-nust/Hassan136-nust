@@ -1,9 +1,7 @@
-<!--
-  ╔══════════════════════════════════════════════════════════════════╗
-  ║              HASSAN JAMAL — GITHUB PROFILE README               ║
-  ║   Replace every Hassan136-nust / YOUR_*_URL with real values     ║
-  ╚══════════════════════════════════════════════════════════════════╝
--->
+<!--╔══════════════════════════════════════════════════════════════════╗
+║              HASSAN JAMAL — GITHUB PROFILE README               ║
+║                    All links have been corrected                 ║
+╚══════════════════════════════════════════════════════════════════╝-->
 
 <div align="center">
 
@@ -18,9 +16,15 @@
 <br/><br/>
 
 <!-- ───────────────────────── SOCIAL BADGES ──────────────────────── -->
-<a href="https://www.linkedin.com/in/hassan-jamal-a92191324/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://hassan-jamal-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox-browser&logoColor=white" /></a>
-<a href="mailto:hjamal.bscs24seecs@seecs.edu.pk"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/hassan-jamal-a92191324/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://hassan-jamal-portfolio.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox-browser&logoColor=white" />
+</a>
+<a href="mailto:hjamal.bscs24seecs@seecs.edu.pk">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 <img src="https://komarev.com/ghpvc/?username=Hassan136-nust&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS" />
 
 </div>
@@ -41,11 +45,9 @@ const hassan = {
   location : "Islamabad, Pakistan 🇵🇰",
   edu      : "NUST — BS CS · Sem 4",
   email    : "hjamal.bscs24seecs@seecs.edu.pk",
-
   stack    : ["MERN", "REST", "WebSockets", "Docker", "AWS"],
   ai       : ["Groq", "Gemini", "OpenAI", "LLM Integration"],
   loves    : ["Real-Time Systems", "AI Tooling", "Cloud Arch"],
-
   building : "AI-powered collaborative dev environments 🚀",
   openTo   : ["Collabs", "Open Source", "Opportunities"],
   funFact  : "I debug in my dreams & wake up with fixes 💡",
@@ -83,15 +85,12 @@ const hassan = {
 </div>
 
 <!-- ─────────────────── BACKEND ─────────────────── -->
-
-
 ### ⚙️ Backend & Databases
 
 <div align="center">
 
 | <img src="https://skillicons.dev/icons?i=nodejs" width="40"/><br/>Node.js | <img src="https://skillicons.dev/icons?i=express" width="40"/><br/>Express.js | <img src="https://skillicons.dev/icons?i=mongodb" width="40"/><br/>MongoDB | <img src="https://skillicons.dev/icons?i=mysql" width="40"/><br/>MySQL | <img src="https://skillicons.dev/icons?i=redis" width="40"/><br/>Redis |
 |:---:|:---:|:---:|:---:|:---:|
-
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="40"/><br/>Socket.IO | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40"/><br/>Nginx | <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" height="28"/><br/>JWT | <img src="https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white" height="28"/><br/>REST API | <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socket.io&logoColor=white" height="28"/><br/>WebSockets |
 |:---:|:---:|:---:|:---:|:---:|
 
@@ -146,7 +145,9 @@ const hassan = {
 </div>
 
 <div align="center">
+
 <img src="https://github-profile-trophy.vercel.app/?username=Hassan136-nust&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=7" />
+
 </div>
 
 ---
@@ -160,7 +161,6 @@ const hassan = {
 ---
 
 ### ⚡ FREYA — AI Collaborative Code Editor
-
 > Gen-AI · MERN · WebContainers · Real-Time
 
 - 🤖 AI code generation via **Groq LLM**
@@ -172,12 +172,11 @@ const hassan = {
 **Stack:** `React` `Node.js` `MongoDB` `Socket.IO` `Groq API` `WebContainers` `Tailwind`
 
 [![Live Demo](https://img.shields.io/badge/▶%20Live%20Demo-58a6ff?style=for-the-badge)](https://freya-agent.vercel.app/)
-[![Source Code](https://img.shields.io/badge/⌥%20Source%20Code-0d1117?style=for-the-badge&logo=github&logoColor=white)](YOUR_FREYA_REPO_URL)
+[![Source Code](https://img.shields.io/badge/⌥%20Source%20Code-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hassan136-nust/FREYA)
 
 ---
 
 ### 🗺️ UrbanPulse — GeoSpatial Urban Intelligence
-
 > MERN · OpenStreetMap · Spatial Analysis
 
 - 🗺️ Geospatial queries via **OpenStreetMap + Overpass API**
@@ -187,13 +186,11 @@ const hassan = {
 
 **Stack:** `React` `Node.js` `MongoDB` `Express` `OpenStreetMap` `Overpass API` `Leaflet.js`
 
-[![Live Demo](https://img.shields.io/badge/▶%20Live%20Demo-58a6ff?style=for-the-badge)](https://urban-pulse-system.vercel.app/)
-[![Source Code](https://img.shields.io/badge/⌥%20Source%20Code-0d1117?style=for-the-badge&logo=github&logoColor=white)](YOUR_URBANPULSE_REPO_URL)
+[![Source Code](https://img.shields.io/badge/⌥%20Source%20Code-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hassan136-nust/Geo-Spatial-Database-for-Urban-Planning-.git)
 
 ---
 
 ### 🎓 Gapify AI — Resume & Interview Analyzer
-
 > Gen-AI · MERN · Career Intelligence
 
 - 📄 AI resume analysis with **match scoring**
@@ -204,13 +201,12 @@ const hassan = {
 
 **Stack:** `React` `Node.js` `MongoDB` `Groq LLM` `JWT` `Vercel` `Render`
 
-[![Live Demo](https://img.shields.io/badge/▶%20Live%20Demo-58a6ff?style=for-the-badge)](YOUR_GAPIFY_DEMO_URL)
-[![Source Code](https://img.shields.io/badge/⌥%20Source%20Code-0d1117?style=for-the-badge&logo=github&logoColor=white)](YOUR_GAPIFY_REPO_URL)
+[![Live Demo](https://img.shields.io/badge/▶%20Live%20Demo-58a6ff?style=for-the-badge)](https://gapify-ai.vercel.app/)
+[![Source Code](https://img.shields.io/badge/⌥%20Source%20Code-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hassan136-nust/GAPIFY-AI-Resume-and-Job-analyzer.git)
 
 ---
 
 ### 💻 Real-Time Collaborative Code Editor
-
 > Docker · AWS ECR/ECS/ALB · CRDTs
 
 - 👥 Multi-user editing with **CRDT** conflict resolution
@@ -220,13 +216,12 @@ const hassan = {
 
 **Stack:** `Node.js` `WebSockets` `CRDTs` `Docker` `AWS ECR` `AWS ECS` `AWS ALB`
 
-[![Live Demo](https://img.shields.io/badge/▶%20Live%20Demo-58a6ff?style=for-the-badge)](YOUR_CODEEDITOR_DEMO_URL)
-[![Source Code](https://img.shields.io/badge/⌥%20Source%20Code-0d1117?style=for-the-badge&logo=github&logoColor=white)](YOUR_CODEEDITOR_REPO_URL)
+[![Live Demo](https://img.shields.io/badge/▶%20Live%20Demo-58a6ff?style=for-the-badge)](https://code-editor-live-jq2r.onrender.com/)
+[![Source Code](https://img.shields.io/badge/⌥%20Source%20Code-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hassan136-nust)
 
 ---
 
 ### ♟️ Chess Arena — Real-Time Multiplayer
-
 > WebSockets · Docker · Render
 
 - ♟️ Real-time multiplayer chess with live chat
@@ -236,13 +231,12 @@ const hassan = {
 
 **Stack:** `Node.js` `Socket.IO` `Docker` `Render` `HTML5` `CSS3` `JavaScript`
 
-[![Live Demo](https://img.shields.io/badge/▶%20Live%20Demo-58a6ff?style=for-the-badge)](YOUR_CHESS_DEMO_URL)
-[![Source Code](https://img.shields.io/badge/⌥%20Source%20Code-0d1117?style=for-the-badge&logo=github&logoColor=white)](YOUR_CHESS_REPO_URL)
+[![Live Demo](https://img.shields.io/badge/▶%20Live%20Demo-58a6ff?style=for-the-badge)](https://chess-arena-game.onrender.com/)
+[![Source Code](https://img.shields.io/badge/⌥%20Source%20Code-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hassan136-nust/Online-Chess-Game.git)
 
 ---
 
 ### 🔐 Encrypted VPN + Auth System
-
 > Network Security · Encryption · Python
 
 - 🔐 End-to-end encrypted client-server communication
@@ -252,12 +246,11 @@ const hassan = {
 
 **Stack:** `Python` `Socket Programming` `Encryption` `SSL/TLS`
 
-[![Source Code](https://img.shields.io/badge/⌥%20Source%20Code-0d1117?style=for-the-badge&logo=github&logoColor=white)](YOUR_VPN_REPO_URL)
+[![Source Code](https://img.shields.io/badge/⌥%20Source%20Code-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hassan-136/Nova-Link.git)
 
 ---
 
 ### 🧠 Aspect-Based Sentiment Analysis — SemEval-2026
-
 > NLP · Deep Learning · Python
 
 - 🧠 Aspect-level sentiment classification with deep learning
@@ -267,16 +260,30 @@ const hassan = {
 
 **Stack:** `Python` `PyTorch` `NLP` `Scikit-learn` `Transformers`
 
-[![Source Code](https://img.shields.io/badge/⌥%20Source%20Code-0d1117?style=for-the-badge&logo=github&logoColor=white)](YOUR_NLP_REPO_URL)
+[![Source Code](https://img.shields.io/badge/⌥%20Source%20Code-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muhammad-ahmad-amin/ParselQ.git)
 
 ---
+
+### 📊 Recommendation System with Graph Analysis
+> Graph Theory · Network Analysis · Python
+
+- 🕸️ Graph-based recommendation engine using user-item interaction networks
+- 📈 Network analysis techniques to extract patterns
+- 🎯 Improved recommendation quality through graph algorithms
+
+**Stack:** `Python` `NetworkX` `Graph Algorithms` `Data Analysis`
+
+[![Source Code](https://img.shields.io/badge/⌥%20Source%20Code-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muhammad-ahmad-amin/Link-Lab.git)
+
+---
+
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                    PACMAN CONTRIBUTION                        -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 🕹️ Pac-Man eats my Contributions
 
-> **Setup required:** Add the GitHub Action below to auto-generate this SVG.
+> **Setup required:** Add the GitHub Action below to auto-generate this SVG.  
 > See: [abozanona/pacman-contribution-graph](https://github.com/abozanona/pacman-contribution-graph)
 
 <picture>
@@ -284,7 +291,6 @@ const hassan = {
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hassan136-nust/Hassan136-nust/output/pacman-contribution-graph.svg" />
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Hassan136-nust/Hassan136-nust/output/pacman-contribution-graph.svg" />
 </picture>
-
 
 ---
 
@@ -296,14 +302,21 @@ const hassan = {
 
 ### 💬 Let's connect and build something great
 
-<a href="mailto:hjamal.bscs24seecs@seecs.edu.pk"><img src="https://img.shields.io/badge/hjamal.bscs24seecs%40seecs.edu.pk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:hjamal.bscs24seecs@seecs.edu.pk">
+  <img src="https://img.shields.io/badge/hjamal.bscs24seecs%40seecs.edu.pk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 <br/><br/>
 
-<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox-browser&logoColor=white" /></a>
-<a href="YOUR_TWITTER_URL"><img src="https://img.shields.io/badge/Twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-<a href="https://github.com/Hassan136-nust"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/hassan-jamal-a92191324/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://hassan-jamal-portfolio.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox-browser&logoColor=white" />
+</a>
+<a href="https://github.com/Hassan136-nust">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 <br/><br/>
 
