@@ -132,25 +132,97 @@ const hassan = {
 <!--                     GITHUB STATS                              -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 📊 GitHub Stats
+
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Hassan136-nust&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-<img width="49%" src="https://streak-stats.demolab.com?user=Hassan136-nust&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b35&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&stroke=0d1117" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hassan136-nust&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&theme=github_dark_dimmed" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hassan136-nust&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Hassan136-nust&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" />
+<img height="180em" src="https://streak-stats.demolab.com?user=Hassan136-nust&theme=github-dark-blue&hide_border=true" />
 
 </div>
 
+<br/>
+
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Hassan136-nust&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=7" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hassan136-nust&layout=compact&langs_count=10&hide_border=true&theme=github_dark_dimmed" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Hassan136-nust&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" />
 
 </div>
 
 ---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Hassan136-nust&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Hassan136-nust/Hassan136-nust/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Hassan136-nust/Hassan136-nust/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/Hassan136-nust/Hassan136-nust/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
+</div>
+
+
+
+---
+
+# 🎖️ Badges
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Open%20Source-Contributor-blue?style=for-the-badge&logo=github" />
+
+<img src="https://img.shields.io/badge/Full%20Stack-MERN-success?style=for-the-badge&logo=mongodb" />
+
+<img src="https://img.shields.io/badge/AI-LLM%20Engineer-purple?style=for-the-badge&logo=openai" />
+
+<img src="https://img.shields.io/badge/Cloud-AWS-orange?style=for-the-badge&logo=amazonaws" />
+
+<img src="https://img.shields.io/badge/DevOps-Docker-blue?style=for-the-badge&logo=docker" />
+
+<img src="https://img.shields.io/badge/Real--Time-WebSockets-black?style=for-the-badge&logo=socketdotio" />
+
+<img src="https://img.shields.io/badge/Next.js-Fullstack-white?style=for-the-badge&logo=nextdotjs&logoColor=black" />
+
+<img src="https://img.shields.io/badge/TypeScript-Advanced-blue?style=for-the-badge&logo=typescript" />
+
+</div>
+
+---
+
+
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                    PACMAN CONTRIBUTION                        -->
