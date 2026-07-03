@@ -69,6 +69,17 @@ const hassan = {
 <br clear="right"/>
 
 ---
+## ⚽ My Football Card
+
+<p align="center">
+  <a href="https://gitfut.com/Hassan136-nust">
+    <img
+      src="Screenshot 2026-07-04 010226.png"
+      width="1000"
+      alt="GitFut Card"
+    />
+  </a>
+</p>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                      TECH STACK                               -->
@@ -164,22 +175,6 @@ const hassan = {
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    PACMAN CONTRIBUTION                        -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 🕹️ Pac-Man eats my Contributions
-
-> **Setup required:** Add the GitHub Action below to auto-generate this SVG.  
-> See: [abozanona/pacman-contribution-graph](https://github.com/abozanona/pacman-contribution-graph)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Hassan136-nust/Hassan136-nust/output/pacman-contribution-graph-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hassan136-nust/Hassan136-nust/output/pacman-contribution-graph.svg" />
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Hassan136-nust/Hassan136-nust/output/pacman-contribution-graph.svg" />
-</picture>
-
----
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                       FOOTER                                  -->
