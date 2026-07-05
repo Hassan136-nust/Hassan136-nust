@@ -69,17 +69,7 @@ const hassan = {
 <br clear="right"/>
 
 ---
-## ⚽ My Football Card
 
-<p align="center">
-  <a href="https://gitfut.com/Hassan136-nust">
-    <img
-      src="Screenshot 2026-07-04 010226.png"
-      width="1000"
-      alt="GitFut Card"
-    />
-  </a>
-</p>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                      TECH STACK                               -->
