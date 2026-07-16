@@ -14,18 +14,17 @@
 </a>
 
 <br/><br/>
-
+<a href="https://hassan-jamal-portfolio.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox-browser&logoColor=white" />
+</a>
 <!-- ───────────────────────── SOCIAL BADGES ──────────────────────── -->
 <a href="https://www.linkedin.com/in/hassan-jamal-a92191324/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://hassan-jamal-portfolio.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox-browser&logoColor=white" />
-</a>
+
 <a href="mailto:hjamal.bscs24seecs@seecs.edu.pk">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=Hassan136-nust&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS" />
 
 </div>
 <br/>
@@ -180,15 +179,10 @@ const hassan = {
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/hassan-jamal-a92191324/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
 <a href="https://hassan-jamal-portfolio.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox-browser&logoColor=white" />
 </a>
-<a href="https://github.com/Hassan136-nust">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+
 
 <br/><br/>
 
