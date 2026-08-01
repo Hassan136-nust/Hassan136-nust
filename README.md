@@ -29,14 +29,14 @@
 </div>
 <br/>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://rankistan.dev">
     <img
       src="https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2Fhassan136-nust&style=for-the-badge"
       alt="Rankistan Badge"
     />
   </a>
-</p>
+</p> -->
 
 <br/>
 
