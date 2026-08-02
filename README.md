@@ -169,9 +169,9 @@ const hassan = {
 <!--                       FOOTER                                  -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<div align="center">
+ <div align="center">
 
-### 💬 Let's connect and build something great
+<!-- ### 💬 Let's connect and build something great -->
 
 <a href="mailto:hjamal.bscs24seecs@seecs.edu.pk">
   <img src="https://img.shields.io/badge/hjamal.bscs24seecs%40seecs.edu.pk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
