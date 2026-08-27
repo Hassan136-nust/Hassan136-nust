@@ -54,7 +54,7 @@
 const hassan = {
   name     : "Hassan Jamal",
   location : "Islamabad, Pakistan 🇵🇰",
-  edu      : "NUST — BS CS · Sem 4",
+  edu      : "NUST — BS CS · Sem 5",
   email    : "hjamal.bscs24seecs@seecs.edu.pk",
   stack    : ["MERN", "REST", "WebSockets", "Docker", "AWS"],
   ai       : ["Groq", "Gemini", "OpenAI", "LLM Integration"],
